@@ -1,9 +1,9 @@
-# Barton Creek Bicycle
+# Barton Creek Cycling
 
 *Group project to practice working in teams with GitHub by working on this "client project" for a local bike shop*
 
 #### Design Mockup
-- picture
+![alt text](images/sc1.png "img 1")
 
 
 #### Mobile Version Screenshot
