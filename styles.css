@@ -16,12 +16,11 @@ body {
 
 div {
   flex-grow: 1;
+  width: 100%;
 }
 
 .logo {
   background-color: #A3459A;
-  padding-top: 60px;
-  padding-bottom: 60px;
   text-transform: uppercase;
   margin: 0;
   padding: 100px auto;
@@ -35,6 +34,10 @@ div {
   background-image: url("./images/asya-vee-203720.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.logo-image {
+  max-height: 60px;
 }
 
 .contact {
@@ -57,7 +60,11 @@ div {
 
 .bikes {
   color: white;
+
+  /*Place holder styles*/
+  height: 100px;
   width: 100%;
+  background: black;
 }
 
 .footer{
@@ -66,9 +73,14 @@ div {
 
 
 
-/* Desktop */
+/* Tablet */
 @media (min-width: 480px) {
-
+  /*.contact {
+    flex-basis: 60%;
+  }
+  .bio {
+    flex-basis: 40%;
+  }*/
 }
 
 /* Desktop */
