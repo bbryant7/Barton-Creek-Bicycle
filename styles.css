@@ -10,6 +10,9 @@ body {
 
 .logo {
   background-color: #A3459A;
+  background-image: url("./images/asya-vee-203720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .contact {
