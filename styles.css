@@ -21,9 +21,16 @@ div {
 
 .logo {
   background-color: #A3459A;
-  padding-top: 60px;
-  padding-bottom: 60px;
   text-transform: uppercase;
+  margin: 0;
+  padding: 100px auto;
+}
+
+.logo-image img {
+  height: 60px;
+}
+
+.logo-image {
   background-image: url("./images/asya-vee-203720.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -33,15 +40,15 @@ div {
 
 .logo-image {
   max-height: 60px;
-
 }
 
 .contact {
-  background-color: #5A1297;
-  color: white;
+  background-color: white;
+  color: #5A1297;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-size: 20px;
 }
 
 .map {
@@ -50,6 +57,7 @@ div {
 
 .bio {
   background-color: #A3459A;
+  font-size: 20px;
 }
 
 .bikes {
@@ -64,7 +72,6 @@ background-image: url("./images/milada-vigerova-16700.jpg");
 
 .footer{
   background-color: #A3459A;
-
 }
 
 
