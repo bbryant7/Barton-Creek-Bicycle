@@ -27,6 +27,8 @@ div {
   background-image: url("./images/asya-vee-203720.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+
+
 }
 
 .logo-image {
@@ -52,6 +54,7 @@ div {
 
 .bikes {
   color: white;
+background-image: url("./images/milada-vigerova-16700.jpg");
 
   /*Place holder styles*/
   height: 100px;
@@ -61,6 +64,7 @@ div {
 
 .footer{
   background-color: #A3459A;
+
 }
 
 
