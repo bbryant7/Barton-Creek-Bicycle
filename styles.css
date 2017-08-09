@@ -5,10 +5,17 @@ light purple #C695C9*/
 
 
 body {
-  background-color: white;
   font-family: 'Open Sans', sans-serif;
   color: white;
   margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 0;
+}
+
+div {
+  flex-grow: 1;
 }
 
 .logo {
@@ -20,7 +27,9 @@ body {
 
 .logo-image {
   max-height: 60px;
-  background-color:
+  background-image: url("./images/asya-vee-203720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .contact {
@@ -40,8 +49,22 @@ body {
 }
 
 .bikes {
+  color: white;
+  width: 100%;
 }
 
 .footer{
   background-color: #A3459A;
+}
+
+
+
+/* Desktop */
+@media (min-width: 480px) {
+
+}
+
+/* Desktop */
+@media (min-width: 965px) {
+
 }
