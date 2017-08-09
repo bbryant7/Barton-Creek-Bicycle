@@ -24,13 +24,14 @@ div {
   padding-top: 60px;
   padding-bottom: 60px;
   text-transform: uppercase;
+  background-image: url("./images/asya-vee-203720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .logo-image {
   max-height: 60px;
-  background-image: url("./images/asya-vee-203720.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+
 }
 
 .contact {
