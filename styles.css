@@ -16,6 +16,7 @@ body {
 
 div {
   flex-grow: 1;
+  width: 100%;
 }
 
 .logo {
@@ -50,7 +51,11 @@ div {
 
 .bikes {
   color: white;
+
+  /*Place holder styles*/
+  height: 100px;
   width: 100%;
+  background: black;
 }
 
 .footer{
@@ -59,9 +64,14 @@ div {
 
 
 
-/* Desktop */
+/* Tablet */
 @media (min-width: 480px) {
-
+  /*.contact {
+    flex-basis: 60%;
+  }
+  .bio {
+    flex-basis: 40%;
+  }*/
 }
 
 /* Desktop */
