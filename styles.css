@@ -65,8 +65,8 @@ h1 {
   background-color: #FFA58E;
   color: #391622;
   font-size: 20px;
-  padding-top: 26px;
-  padding-bottom: 26px;
+  padding-top: 34px;
+  padding-bottom: 34px;
 }
 
 .bikes {
@@ -84,8 +84,6 @@ background-image: url("./images/milada-vigerova-16700.jpg");
   color: #A3459A;
   position: relative;
   top: 0px;
-
-
 
 /* Tablet */
 @media (min-width: 480px) {
