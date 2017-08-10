@@ -1,8 +1,10 @@
-/*grey #DBDDE6
+/*
+grey #DBDDE6
 dark purple #5A1297
 medium purple #A3459A
 light purple #C695C9
-peach #FFA58E*/
+peach #FFA58E
+*/
 
 
 body {
@@ -27,6 +29,7 @@ div {
   background-repeat: no-repeat;
   height: 400px;
   background-position: center;
+  color: white;
 }
 
 .logo-image img {
@@ -35,7 +38,7 @@ div {
   padding: 10px;
   border: 3px solid white;
   border-radius: 8px;
-  background-image: url("./images/asya-vee-203720.jpg");
+  /*background-image: url("./images/asya-vee-203720.jpg");*/
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -70,7 +73,7 @@ h1 {
 }
 
 .bikes {
-background-image: url("./images/milada-vigerova-16700.jpg");
+/*background-image: url("./images/milada-vigerova-16700.jpg");*/
 
 }
 
@@ -81,10 +84,10 @@ background-image: url("./images/milada-vigerova-16700.jpg");
 .footer{
 
   background-color: #391622;
-  color: #A3459A;
+  color: #FFA58E;
   position: relative;
   top: 0px;
-
+}
 
 
 /* Tablet */
