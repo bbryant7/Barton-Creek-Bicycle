@@ -27,6 +27,7 @@ div {
   background-repeat: no-repeat;
   height: 400px;
   background-position: center;
+  color: white;
 }
 
 .logo-image img {
@@ -35,7 +36,6 @@ div {
   padding: 10px;
   border: 3px solid white;
   border-radius: 8px;
-  background-image: url("./images/asya-vee-203720.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -70,7 +70,6 @@ h1 {
 }
 
 .bikes {
-background-image: url("./images/milada-vigerova-16700.jpg");
 
 }
 
