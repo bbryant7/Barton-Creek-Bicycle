@@ -7,7 +7,6 @@ peach #FFA58E*/
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: white;
   margin: 0;
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +35,9 @@ div {
   padding: 10px;
   border: 3px solid white;
   border-radius: 8px;
+  background-image: url("./images/asya-vee-203720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .logo-image {
@@ -68,6 +70,7 @@ h1 {
 }
 
 .bikes {
+background-image: url("./images/milada-vigerova-16700.jpg");
 
 }
 
@@ -76,11 +79,11 @@ h1 {
 }
 
 .footer{
+
   background-color: #391622;
-  color: white;
+  color: #A3459A;
   position: relative;
   top: 0px;
-}
 
 /* Tablet */
 @media (min-width: 480px) {
