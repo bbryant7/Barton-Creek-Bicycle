@@ -5,9 +5,8 @@
 #### Design Mockup
 ![alt text](images/sc1.png "img 1")
 
+#### Desktop Version Screenshot
+![alt text](images/final.png "final")
 
 #### Mobile Version Screenshot
-- screenshot
-
-#### Desktop Version Screenshot
 - screenshot
