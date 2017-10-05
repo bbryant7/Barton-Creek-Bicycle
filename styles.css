@@ -1,8 +1,10 @@
-/*grey #DBDDE6
+/*
+grey #DBDDE6
 dark purple #5A1297
 medium purple #A3459A
 light purple #C695C9
-peach #FFA58E*/
+peach #FFA58E
+*/
 
 
 body {
@@ -70,6 +72,7 @@ h1 {
 }
 
 .bikes {
+/*background-image: url("./images/milada-vigerova-16700.jpg");*/
 
 }
 
@@ -80,7 +83,7 @@ h1 {
 .footer{
 
   background-color: #391622;
-  color: #A3459A;
+  color: white;
   position: relative;
   top: 0px;
 
